@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+} 
+.toplogo {
+    background-color: #c09d43;
+    text-align: left;
+}
+.center{
+    display: block;
+    text-align: center;
+}
+.zoom {
+    transition: transform .1s; /* Animation */
+    margin: 0;
+}
+.zoom:hover {
+    transform: scale(1.5); 
+}
