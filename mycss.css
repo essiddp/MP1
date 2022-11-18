@@ -5,7 +5,9 @@ body {
 .toplogo {
     background-color: #c09d43;
     text-align: center;
+    margin-bottom: 15;
 }
+
 .center{
     text-align: center;
 }
